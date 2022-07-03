@@ -1,0 +1,35 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "desafio_cfe3bf17"
+        },
+        {
+            "type": "java",
+            "name": "Launch DesafioDois",
+            "request": "launch",
+            "mainClass": "DesafioDois",
+            "projectName": "desafio_cfe3bf17"
+        },
+        {
+            "type": "java",
+            "name": "Launch DesafioUm",
+            "request": "launch",
+            "mainClass": "DesafioUm",
+            "projectName": "desafio_cfe3bf17"
+        }
+    ]
+}
